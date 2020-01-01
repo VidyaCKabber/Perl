@@ -9,3 +9,4 @@ foreach $char (split //, $string) {
       $count++;
   }
 }
+print $count;
